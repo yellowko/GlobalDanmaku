@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">全局弹幕
+    </string>
+    <string name="action_settings">Settings
+    </string>
+
+    <string name="danmu_swoff">弹幕已关闭</string>
+    <string name="danmu_swon">弹幕已打开</string>
+    <string name="addVideo">添加</string>
+    <string name="name_show">显示名字</string>
+    <string name="alpha">不透明度</string>
+    <string name="allowedClipboard">允许从剪贴板捕获</string>
+    <string name="autoNext">视频自动连播</string>
+    <string name="roomIdIsEmpty">请输入直播间或av号</string>
+    <string name="roomIdIsError">请输入正确的格式</string>
+    <string name="floatingVideoSize">悬浮窗大小</string>
+
+</resources>
